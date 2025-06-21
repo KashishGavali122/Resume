@@ -1,2 +1,2 @@
 # Resume
-You can find my resume in the read me file.
+please download the file from here to view my resume: https://github.com/KashishGavali122/Resume.git
